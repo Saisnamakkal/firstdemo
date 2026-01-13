@@ -1,2 +1,2 @@
 TWO
-**Checking whether this line is isible in git bash once this is pulled**
+**Checking whether this line is visible in git bash once this is pulled**
